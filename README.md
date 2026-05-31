@@ -1,8 +1,5 @@
 # Ingush Language Pack (ГIалгIай метта пакет)
 
-![License](https://shields.io)
-![Contributions welcome](https://shields.io)
-
 Региональные настройки и локализация (локаль) для поддержки ингушского языка в операционных системах Linux и различном программном обеспечении.
 
 This repository contains the Ingush language pack (locale configuration and localization files) for Linux systems and various software applications.
