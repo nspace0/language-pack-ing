@@ -1,5 +1,6 @@
 # Ingush Language Pack (ГIалгIай метта пакет)
 
+
 Региональные настройки и локализация (локаль) для поддержки ингушского языка в операционных системах Linux и различном программном обеспечении.
 
 This repository contains the Ingush language pack (locale configuration and localization files) for Linux systems and various software applications.
@@ -9,7 +10,7 @@ This repository contains the Ingush language pack (locale configuration and loca
 ## 🌍 Описание / Description
 
 ### На русском:
-Этот проект создан для обеспечения полноценной поддержки ингушского языка (**ГIалгIай мотт**) в цифровой среде. Пакет включает в себя файлы локализации (`inh_RU`), правила сортировки, форматы даты, времени и валюты, адаптированные под стандарты ингушской письменности и грамматики. 
+Этот проект создан для обеспечения полноценной поддержки ингушского языка (**ГIалгIай мотт**) в цифровой среде. Пакет включает в себя файлы локализации (`ing_RU`), правила сортировки, форматы даты, времени и валюты, адаптированные под стандарты ингушской письменности и грамматики. 
 
 **Основные цели проекта:**
 * Интеграция ингушского языка в системные репозитории Linux.
@@ -17,7 +18,7 @@ This repository contains the Ingush language pack (locale configuration and loca
 * Создание базы для перевода интерфейсов популярных программ (DE, браузеры, офисные пакеты).
 
 ### In English:
-This project aims to provide comprehensive support for the Ingush language (**ГIалгIай мотт**) in the digital space. The package includes localization files (`inh_RU`), collation rules, date/time formats, and currency settings tailored to the standards of the Ingush script and grammar.
+This project aims to provide comprehensive support for the Ingush language (**ГIалгIай мотт**) in the digital space. The package includes localization files (`ing_RU`), collation rules, date/time formats, and currency settings tailored to the standards of the Ingush script and grammar.
 
 **Key Goals:**
 * Integrating the Ingush language into Linux system repositories.
@@ -32,7 +33,7 @@ This project aims to provide comprehensive support for the Ingush language (**Г
 
 ```bash
 # Пример команды для компиляции локали (если применимо)
-sudo locale-gen inh_RU.UTF-8
+sudo locale-gen ing_RU.UTF-8
 ```
 
 ---
